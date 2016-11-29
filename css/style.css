@@ -1,0 +1,32 @@
+body {
+  background-color: #574D68;
+ font-family: 'Open Sans', sans-serif;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: 36px;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+input {
+  background-color: #A38560;
+  border: 5px solid #C6A15B;
+  padding: 25px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.display {
+  padding: 20px; 
+  color: black;
+  text-align: center;
+  width: 50vw;
+  margin: 0 auto;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 20px;
+}
